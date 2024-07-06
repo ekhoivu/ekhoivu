@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khoi Vu
-- 🌱 I’m currently in a Full-Stack Developer at RBC
+- 🌱 I’m currently a Full-Stack Developer at RBC
 - 💞️ My website is https://ekhoivu.github.io/portfolio/
 - 📫 My linkedin is www.linkedin.com/in/khoivu. Thank you for stopping by!
 
