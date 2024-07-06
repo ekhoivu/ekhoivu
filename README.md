@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khoi Vu
-- 🌱 I’m currently in my 4th semester of the Computer Programming and Analysis program here at Seneca College
-- 💞️ My repositories consist mainly of the major school projects I have done up until this point
+- 🌱 I’m currently in a Full-Stack Developer at RBC
+- 💞️ My website is https://ekhoivu.github.io/portfolio/
 - 📫 My linkedin is www.linkedin.com/in/khoivu. Thank you for stopping by!
 
 <!---
